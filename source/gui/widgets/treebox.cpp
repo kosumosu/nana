@@ -14,6 +14,7 @@
 #include <nana/gui/element.hpp>
 #include <nana/gui/layout_utility.hpp>
 #include <nana/system/platform.hpp>
+#include <algorithm>
 #include <map>
 #include "../../detail/platform_abstraction.hpp"
 
